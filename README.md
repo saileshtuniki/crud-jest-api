@@ -23,3 +23,4 @@ This is a simple Express.js + TypeScript API project with Jest test cases for CR
 ```bash
 npm install
 npm run dev
+npm test
