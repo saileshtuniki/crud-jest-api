@@ -10,7 +10,7 @@ This is a simple Express.js + TypeScript API project with Jest test cases for CR
 - PostgreSQL
 - Jest (for testing)
 
-## 📸 Screenshots
+<!-- ## 📸 Screenshots -->
 
 ### API Testing in Postman
 
